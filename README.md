@@ -84,28 +84,10 @@ Campus events app for SDU students: event feed, club management, ticket purchase
 </td>
 <td width="50%" valign="top">
 
-### 🔍 [Smartr Jobs](https://github.com/nu2su1tan/smartr-app)
-A job search app: browse listings, open details and track applications. My first app built fully on my own.
+### 🚭 [NoSmoke](https://github.com/nu2su1tan/nosmoke)
+A quit-smoking companion: goals, diary, progress, achievements, a coach, community and an SOS button for cravings. Health data integration, weekly reports, reminders and a home screen widget.
 
-`Flutter` `Dart`
-
-</td>
-</tr>
-<tr>
-<td width="50%" valign="top">
-
-### 🍓 [Malina](https://github.com/nu2su1tan/malina)
-Offline food and beauty ordering flow with local auth, login lockout after failed attempts, cart by category and a QR scanner.
-
-`SharedPreferences` `QR scanner`
-
-</td>
-<td width="50%" valign="top">
-
-### ✅ [Todo List](https://github.com/nu2su1tan/todo_list) · [ConsoleTodo](https://github.com/nu2su1tan/ConsoleTodo)
-Where it started: a console task manager in Dart, then a Flutter todo with persistent storage.
-
-`Dart` `shared_preferences`
+`Flutter` `Health` `Widgets` `In-app purchases`
 
 </td>
 </tr>
